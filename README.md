@@ -1,5 +1,4 @@
 # AquaPredator
-
 AquaPredator
 <img width="276" height="600" alt="iPhone 16 Pro Max - 223" src="https://github.com/user-attachments/assets/de25d045-e2ed-4d9a-955e-c7dbb51250c7" />
 <img width="276" height="600" alt="iPhone 16 Pro Max - 222" src="https://github.com/user-attachments/assets/86d2f451-31f7-46a6-8bd6-d86bc6787e26" />
